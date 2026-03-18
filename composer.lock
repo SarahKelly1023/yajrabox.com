@@ -1654,16 +1654,16 @@
         },
         {
             "name": "laravel/nightwatch",
-            "version": "v1.24.2",
+            "version": "v1.24.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/nightwatch.git",
-                "reference": "2f05a63ce3cd8137b054937d5d2a82c6a0b722f1"
+                "reference": "627e58096f6b4b88e658b7a9cff595089036ae84"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/nightwatch/zipball/2f05a63ce3cd8137b054937d5d2a82c6a0b722f1",
-                "reference": "2f05a63ce3cd8137b054937d5d2a82c6a0b722f1",
+                "url": "https://api.github.com/repos/laravel/nightwatch/zipball/627e58096f6b4b88e658b7a9cff595089036ae84",
+                "reference": "627e58096f6b4b88e658b7a9cff595089036ae84",
                 "shasum": ""
             },
             "require": {
@@ -1744,7 +1744,7 @@
                 "issues": "https://github.com/laravel/nightwatch/issues",
                 "source": "https://github.com/laravel/nightwatch"
             },
-            "time": "2026-03-10T00:37:51+00:00"
+            "time": "2026-03-12T04:01:23+00:00"
         },
         {
             "name": "laravel/prompts",
